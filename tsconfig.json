@@ -11,6 +11,12 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
+    "nativewind-env.d.ts",
+    "components/Login.jsx",
+    "components/homescreen/HT.jsx",
+    "app/index.jsx",
+    "components/Splash.jsx",
+    "components/Signup.jsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
   ]
